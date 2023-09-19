@@ -118,3 +118,24 @@ section h3 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+#file-de-frango{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#ingredientes{
+    margin-top: 200px;
+    min-width: 500px;
+    max-height: 200px;
+}
+
+.fg-img{
+    height: 250px;
+    width: 350px;
+}
+
+.margin-0{
+    margin: 0px;
+}
